@@ -1,0 +1,1 @@
+App that uses only gestures as UI, designed for visually impaired. A POC of non-ui app
